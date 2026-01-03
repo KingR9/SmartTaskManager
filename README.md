@@ -189,9 +189,3 @@ MIT License
 ---
 
 **Built with ❤️ using React Native + TypeScript + Firebase**
-
-* ✉️ Write the **exact submission message**
-* 🎤 Prepare **interview Q&A based on your code**
-* 🧠 Help you answer: *“What would you improve next?”*
-
-Just tell me 👌
