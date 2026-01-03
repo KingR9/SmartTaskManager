@@ -1,0 +1,19 @@
+node_modules/
+.vscode/
+.DS_Store
+.idea/
+node_modules/
+android/.gradle/
+android/app/build/
+android/local.properties
+ios/Pods/
+ios/build/
+
+# Firebase
+google-services.json
+GoogleService-Info.plist
+
+# OS / editor
+.DS_Store
+.vscode/
+
