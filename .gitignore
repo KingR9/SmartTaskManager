@@ -1,7 +1,4 @@
-node_modules/
-.vscode/
-.DS_Store
-.idea/
+# React Native
 node_modules/
 android/.gradle/
 android/app/build/
@@ -13,7 +10,6 @@ ios/build/
 google-services.json
 GoogleService-Info.plist
 
-# OS / editor
+# Editor/System
 .DS_Store
 .vscode/
-
